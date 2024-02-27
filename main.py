@@ -29,25 +29,4 @@ while machine == "on":
 
 
 
-# #list of drinks
-# drink_list = menu.get_items().split("/")
-# for i in drink_list:
-#     print(i)
 
-# class Animal:
-#     def __init__(self, word):
-#         self.word = word
-
-#     def speak(self):
-#         print(self.word)
-
-
-# # class Dog(Animal):
-# #     def __init__(self):
-# #         super.__init__(self, "bark")
-
-# dog = Animal("auau")
-# cat = Animal("miau")
-
-# dog.speak()
-# cat.speak()
